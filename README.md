@@ -1,1 +1,1 @@
-# larapix 1.0.2
+# Larapix 1.0.2
