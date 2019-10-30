@@ -24,6 +24,6 @@
             ]
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "",
     "prefer-stable": true
 }
